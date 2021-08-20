@@ -1,0 +1,31 @@
+{
+    "name": "Kait",
+    "desription": "There's something inexplicable about her, perhaps it's her goodwill or perhaps it's simply a feeling of coldness. But nonetheless, people tend to lie about knowing her to brag, while befriending her friends to get closer to her.",
+    "image": "https://ipfs.io/ipfs/QmbHbe1YQzkYm3wKbmpXcz5z3yxzYMaAQk2vDT3JYAHroE?filename=kait.PNG",
+    "attributes": [
+        {
+            "trait_type": "Attractiveness",
+            "value": 694 
+        },
+        {
+            "trait_type": "Loyalty",
+            "value": 931 
+        },
+        {
+            "trait_type": "Kissing",
+            "value": 939 
+        },
+        {
+            "trait_type": "intelligents",
+            "value": 751 
+        },
+        {
+            "trait_type": "passionate",
+            "value": 775 
+        },
+        {
+            "trait_type": "independent",
+            "value": 203
+        }
+    ]
+}

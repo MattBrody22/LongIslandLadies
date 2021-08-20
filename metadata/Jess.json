@@ -1,0 +1,31 @@
+{
+    "name": "Jess",
+    "desription": "There's something misleading about her, perhaps it's her unusual looks or perhaps it's simply her good will. But nonetheless, people tend to follow her, while commending her for her deeds.",
+    "image": "https://ipfs.io/ipfs/QmTLSvsMPCHFkH64nV7Lyqdj322xd4rn45wy72UX8KLp1E?filename=Jess.PNG",
+    "attributes": [
+        {
+            "trait_type": "Attractiveness",
+            "value": 850 
+        },
+        {
+            "trait_type": "Loyalty",
+            "value": 209 
+        },
+        {
+            "trait_type": "Kissing",
+            "value": 191 
+        },
+        {
+            "trait_type": "intelligents",
+            "value": 55 
+        },
+        {
+            "trait_type": "passionate",
+            "value": 888 
+        },
+        {
+            "trait_type": "independent",
+            "value": 957
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+"name": "Becca",
+    "desription": "There's something irregular about her, perhaps it's her gentleness or perhaps it's simply a feeling of delight. But nonetheless, people tend to take pride in knowing her, while spreading stories about her.",
+    "image": "https://ipfs.io/ipfs/Qme8JQFEHWcE2zVQ8e2LXCXKBBt39V68TF4x6q4a9kvt8E?filename=Becca.PNG",
+    "attributes": [
+        {
+            "trait_type": "Attractiveness",
+            "value": 356 
+        },
+        {
+            "trait_type": "Loyalty",
+            "value": 147 
+        },
+        {
+            "trait_type": "Kissing",
+            "value": 16 
+        },
+        {
+            "trait_type": "intelligents",
+            "value": 389 
+        },
+        {
+            "trait_type": "passionate",
+            "value": 559 
+        },
+        {
+            "trait_type": "independent",
+            "value": 969
+        }
+    ]
+}

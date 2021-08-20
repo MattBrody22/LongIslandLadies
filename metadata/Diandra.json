@@ -1,0 +1,31 @@
+{
+    "name": "Diandra",
+    "desription": "There's something odd about her, perhaps it's her unusual looks or perhaps it's simply a feeling of regret. But nonetheless, people tend to try to get her to marry their off-spring, while making up bigger stories about her.",
+    "image": "https://ipfs.io/ipfs/QmW71BA5LCGBrmwSkYVzTrz7La71kfuWai6NCcAafKYwp9?filename=Diandra.PNG",
+    "attributes": [
+        {
+            "trait_type": "Attractiveness",
+            "value": 36 
+        },
+        {
+            "trait_type": "Loyalty",
+            "value": 172 
+        },
+        {
+            "trait_type": "Kissing",
+            "value": 951 
+        },
+        {
+            "trait_type": "intelligents",
+            "value": 378 
+        },
+        {
+            "trait_type": "passionate",
+            "value": 933 
+        },
+        {
+            "trait_type": "independent",
+            "value": 150
+        }
+    ]
+}
